@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/iydon/fonthub">
+  <a href="https://github.com/astudentfromsustech/fonthub">
     ⚫⬛⬛⬛<br />
     ⬜⬛⬜⬜<br />
     ⬜⬛⬛⬜<br />
@@ -16,11 +16,11 @@
   <h3 align="center">Font Sharing Web App (Streamlit)</h3>
 
   <p align="center">
-    <a href="https://github.com/iydon/fonthub/blob/main/app.py">View Demo</a>
+    <a href="https://github.com/astudentfromsustech/fonthub/blob/main/app.py">View Demo</a>
     ·
-    <a href="https://github.com/iydon/fonthub/issues">Report Bug</a>
+    <a href="https://github.com/astudentfromsustech/fonthub/issues">Report Bug</a>
     ·
-    <a href="https://github.com/iydon/fonthub/issues">Request Feature</a>
+    <a href="https://github.com/astudentfromsustech/fonthub/issues">Request Feature</a>
   </p>
 </div>
 
