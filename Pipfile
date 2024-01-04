@@ -1,0 +1,13 @@
+[[source]]
+url = "https://mirrors.aliyun.com/pypi/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fonttools = "*"
+
+[dev-packages]
+streamlit = "*"
+
+[requires]
+python_version = "3.8"
